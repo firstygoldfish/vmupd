@@ -1,0 +1,8 @@
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\vmupd.exe
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\vmupd.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\vmupd.deps.json
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\vmupd.runtimeconfig.json
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\vmupd.pdb
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\ICSharpCode.Decompiler.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\Renci.SshNet.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\bin\Release\net5.0-windows\publish\SshNet.Security.Cryptography.dll

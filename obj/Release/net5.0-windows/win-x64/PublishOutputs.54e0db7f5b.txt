@@ -1,0 +1,11 @@
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.pdb
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\clrcompression.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\clrjit.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\coreclr.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\mscordaccore.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\D3DCompiler_47_cor3.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\PenImc_cor3.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\PresentationNative_cor3.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vcruntime140_cor3.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\wpfgfx_cor3.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.exe

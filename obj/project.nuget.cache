@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVOaU468cn5EoaB2lK4u1SNyT3shrcervRcFV96BbKV78/iteleAcMBCBRXSWG0z4LZk4OPUgNFLy9ipiyHwZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p10114900\\Desktop\\Portable.NetCore\\_PROJECTS\\vmupd\\vmupd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p10114900\\.nuget\\packages\\icsharpcode.decompiler\\7.2.1.6856\\icsharpcode.decompiler.7.2.1.6856.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\p10114900\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

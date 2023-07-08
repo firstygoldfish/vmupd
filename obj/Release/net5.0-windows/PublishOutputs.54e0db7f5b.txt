@@ -1,0 +1,8 @@
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.exe
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.deps.json
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.runtimeconfig.json
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\vmupd.pdb
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\ICSharpCode.Decompiler.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\Renci.SshNet.dll
+C:\Users\p10114900\Desktop\Portable.NetCore\_PROJECTS\vmupd\DIST\SshNet.Security.Cryptography.dll
