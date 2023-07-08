@@ -59,7 +59,10 @@ namespace vmupd
 						result = ssh.RunCommand("chmod 755 ~/install.sh");
 						if (result.Error.Length > 0)
 						{
-							addtext(result.Error);;
+							//addtext('********************************************');
+							addtext('************** PROCESS ABORTED *************');
+							addtext(result.Error);
+							addtext('************** PROCESS ABORTED *************');
 							resetForm(ssh);
 						}
 						else
@@ -82,7 +85,9 @@ namespace vmupd
 							}
 
 							//cmd.EndExecute(cmdresult);
-
+							addtext('********************************************');
+							addtext('*              -= FINISHED =-               ';
+							addtext('********************************************');
 							resetForm(ssh);
 						}
 					}
@@ -90,11 +95,13 @@ namespace vmupd
 				catch (System.Net.Sockets.SocketException)
 				{
 					errtext("Connection failed.");
-					resetForm(null);
 				}
 				catch (Renci.SshNet.Common.SshAuthenticationException)
 				{
 					errtext("Authentication failed.");
+				}
+				finally
+				{
 					resetForm(null);
 				}
 			}
